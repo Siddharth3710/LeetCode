@@ -47,5 +47,5 @@ class Solution {
             swap(nm,j,k);
             k--;
         }
-    
+    }
 }
