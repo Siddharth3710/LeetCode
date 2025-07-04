@@ -1,7 +1,8 @@
 class Solution {
     public int countRangeSum(int[] nums, int l, int u) {
         long[]  pre=new long[nums.length+1];
-        for(int i=0;i<nums.length;i++){ pre[i+1]=pre[i]+nums[i];
+        for(int i=0;i<nums.length;i++){
+             pre[i+1]=pre[i]+nums[i];
 }
            
         
