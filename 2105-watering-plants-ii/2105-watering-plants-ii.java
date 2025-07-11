@@ -1,4 +1,5 @@
-public int minimumRefill(int[] arr, int capacityA, int capacityB) {
+class Solution {
+   public int minimumRefill(int[] arr, int capacityA, int capacityB) {
 
     int cnt = 0; // number of refills
     int remainingA = capacityA;
@@ -12,19 +13,21 @@ public int minimumRefill(int[] arr, int capacityA, int capacityB) {
     for (int l = 0; l < n; ++l) {
 
         if (l == r) {
+           
             if (remainingA >= remainingB) {
                 if (remainingA < arr[l]) {
                     remainingA = capacityA;
                     cnt++;
                 }
             } 
+           
             else {
                 if (remainingB < arr[r]) {
                     remainingB = capacityB;
                     cnt++;
                 }
             }
-            break; 
+            break;
         }
 
         if (remainingA < arr[l]) {
@@ -42,8 +45,10 @@ public int minimumRefill(int[] arr, int capacityA, int capacityB) {
 
         r--;
 
-        if (l == r) break;
+        if (l == r) break; 
     }
 
     return cnt;
+}
+
 }
