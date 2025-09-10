@@ -15,45 +15,44 @@
  */
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        int lvl=height(root);
-        List<List<Integer>>res=new ArrayList<>();
-        for(int i=0;i<lvl;i++){
-            ArrayList<Integer>a= new ArrayList<>();
-            if(i%2==0){
-                nlvl(root,i,a);
+        List<List<Integer>> res = new ArrayList<>();
+        if (root == null) return res;
+        
+        int height = getHeight(root);
+        
+        for (int i = 0; i < height; i++) {
+            List<Integer> level = new ArrayList<>();
+            if (i % 2 == 0) {
+                // Even levels: left to right
+                traverseLevel(root, i, level, true);
+            } else {
+                // Odd levels: right to left
+                traverseLevel(root, i, level, false);
             }
-            else{
-                nlvl2(root,i,a);
-
-            }
-            res.add(a);
+            res.add(level);
         }
         return res;
     }
-    public int height(TreeNode root) {
-        if (root == null || (root.left == null && root.right == null)) return 0;
-        return 1 + Math.max(height(root.left), height(root.right));
+    
+    private int getHeight(TreeNode root) {
+        if (root == null) return 0;
+        return 1 + Math.max(getHeight(root.left), getHeight(root.right));
     }
-    public void nlvl(TreeNode root,int n,List<Integer> list){
-        if(root==null)return ;
-        if(n==1){
+    
+    private void traverseLevel(TreeNode root, int level, List<Integer> list, boolean leftToRight) {
+        if (root == null) return;
+        
+        if (level == 0) {
             list.add(root.val);
             return;
         }
-         nlvl(root.right,n-1,list);
-        nlvl(root.left,n-1,list);
-       
-    }
-     public void nlvl2(TreeNode root,int n,List<Integer> list){
-        if(root==null)return ;
-        if(n==1){
-            list.add(root.val);
-            return;
+        
+        if (leftToRight) {
+            traverseLevel(root.left, level - 1, list, leftToRight);
+            traverseLevel(root.right, level - 1, list, leftToRight);
+        } else {
+            traverseLevel(root.right, level - 1, list, leftToRight);
+            traverseLevel(root.left, level - 1, list, leftToRight);
         }
-        nlvl2(root.left,n-1,list);
-                nlvl2(root.right,n-1,list);
-
-      
     }
-
 }
