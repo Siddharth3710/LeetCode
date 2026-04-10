@@ -18,10 +18,12 @@
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/Siddharth3710/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2751-robot-collisions](https://github.com/Siddharth3710/LeetCode/tree/main/2751-robot-collisions/) | Hard |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Siddharth3710/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/Siddharth3710/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Siddharth3710/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
