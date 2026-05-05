@@ -22,7 +22,7 @@ class Solution {
         }
 
         k = k % len;
-        if (k == 0) return head;
+        
 
         tail.next = head;
 
