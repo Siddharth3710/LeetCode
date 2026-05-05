@@ -39,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/Siddharth3710/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0788-rotated-digits](https://github.com/Siddharth3710/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Siddharth3710/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -48,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/Siddharth3710/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0788-rotated-digits](https://github.com/Siddharth3710/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
