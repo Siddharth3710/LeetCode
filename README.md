@@ -12,6 +12,7 @@
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Siddharth3710/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Siddharth3710/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/Siddharth3710/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Siddharth3710/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/Siddharth3710/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 ## Array
@@ -21,6 +22,7 @@
 | [0396-rotate-function](https://github.com/Siddharth3710/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Siddharth3710/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1861-rotating-the-box](https://github.com/Siddharth3710/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/Siddharth3710/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2751-robot-collisions](https://github.com/Siddharth3710/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Siddharth3710/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Siddharth3710/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -50,6 +52,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Siddharth3710/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [1861-rotating-the-box](https://github.com/Siddharth3710/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/Siddharth3710/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Siddharth3710/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
