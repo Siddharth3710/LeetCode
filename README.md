@@ -7,6 +7,7 @@
 | [0657-robot-return-to-origin](https://github.com/Siddharth3710/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/Siddharth3710/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Siddharth3710/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Siddharth3710/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Siddharth3710/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1861-rotating-the-box](https://github.com/Siddharth3710/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Siddharth3710/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Siddharth3710/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Siddharth3710/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Siddharth3710/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Siddharth3710/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -98,4 +100,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Siddharth3710/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Siddharth3710/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 <!---LeetCode Topics End-->
