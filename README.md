@@ -31,6 +31,7 @@
 | [1861-rotating-the-box](https://github.com/Siddharth3710/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Siddharth3710/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Siddharth3710/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2540-minimum-common-value](https://github.com/Siddharth3710/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Siddharth3710/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Siddharth3710/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Siddharth3710/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -44,6 +45,7 @@
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/Siddharth3710/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Siddharth3710/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2540-minimum-common-value](https://github.com/Siddharth3710/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Siddharth3710/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Siddharth3710/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Siddharth3710/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -92,6 +94,7 @@
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/Siddharth3710/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [1861-rotating-the-box](https://github.com/Siddharth3710/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
+| [2540-minimum-common-value](https://github.com/Siddharth3710/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +122,7 @@
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Siddharth3710/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Siddharth3710/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [2540-minimum-common-value](https://github.com/Siddharth3710/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
