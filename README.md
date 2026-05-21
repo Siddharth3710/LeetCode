@@ -8,6 +8,7 @@
 | [0796-rotate-string](https://github.com/Siddharth3710/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Siddharth3710/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Siddharth3710/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Siddharth3710/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@
 | [2751-robot-collisions](https://github.com/Siddharth3710/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Siddharth3710/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Siddharth3710/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Siddharth3710/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Siddharth3710/LeetCode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Siddharth3710/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Siddharth3710/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -51,6 +53,7 @@
 | [2540-minimum-common-value](https://github.com/Siddharth3710/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Siddharth3710/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Siddharth3710/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Siddharth3710/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Siddharth3710/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Siddharth3710/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Stack
@@ -122,6 +125,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Siddharth3710/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Siddharth3710/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
