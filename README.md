@@ -28,6 +28,7 @@
 | [0396-rotate-function](https://github.com/Siddharth3710/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Siddharth3710/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1306-jump-game-iii](https://github.com/Siddharth3710/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/Siddharth3710/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Siddharth3710/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Siddharth3710/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Siddharth3710/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -65,6 +66,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1340-jump-game-v](https://github.com/Siddharth3710/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Siddharth3710/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2751-robot-collisions](https://github.com/Siddharth3710/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Siddharth3710/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -74,6 +76,7 @@
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/Siddharth3710/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Siddharth3710/LeetCode/tree/main/0788-rotated-digits/) | Medium |
+| [1340-jump-game-v](https://github.com/Siddharth3710/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Siddharth3710/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Siddharth3710/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Matrix
