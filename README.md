@@ -10,6 +10,7 @@
 | [2075-decode-the-slanted-ciphertext](https://github.com/Siddharth3710/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Siddharth3710/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Siddharth3710/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/Siddharth3710/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Siddharth3710/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@
 | [2784-check-if-array-is-good](https://github.com/Siddharth3710/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Siddharth3710/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Siddharth3710/LeetCode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/Siddharth3710/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Siddharth3710/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Siddharth3710/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Siddharth3710/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -136,6 +138,7 @@
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Siddharth3710/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Siddharth3710/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/Siddharth3710/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
