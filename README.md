@@ -48,6 +48,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Siddharth3710/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Siddharth3710/LeetCode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Siddharth3710/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3161-block-placement-queries](https://github.com/Siddharth3710/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Siddharth3710/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Siddharth3710/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Siddharth3710/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -148,6 +149,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Siddharth3710/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Siddharth3710/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [2540-minimum-common-value](https://github.com/Siddharth3710/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [3161-block-placement-queries](https://github.com/Siddharth3710/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,4 +162,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1871-jump-game-vii](https://github.com/Siddharth3710/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/Siddharth3710/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/Siddharth3710/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 <!---LeetCode Topics End-->
