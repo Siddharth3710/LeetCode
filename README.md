@@ -38,6 +38,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Siddharth3710/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1861-rotating-the-box](https://github.com/Siddharth3710/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Siddharth3710/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2126-destroying-asteroids](https://github.com/Siddharth3710/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Siddharth3710/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2540-minimum-common-value](https://github.com/Siddharth3710/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Siddharth3710/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -75,6 +76,7 @@
 | ------- | ------- |
 | [1340-jump-game-v](https://github.com/Siddharth3710/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Siddharth3710/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [2126-destroying-asteroids](https://github.com/Siddharth3710/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2751-robot-collisions](https://github.com/Siddharth3710/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Siddharth3710/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Siddharth3710/LeetCode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
@@ -130,6 +132,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Siddharth3710/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [2126-destroying-asteroids](https://github.com/Siddharth3710/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Siddharth3710/LeetCode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
