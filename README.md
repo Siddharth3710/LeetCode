@@ -98,6 +98,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Siddharth3710/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Siddharth3710/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Siddharth3710/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Siddharth3710/LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +115,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Siddharth3710/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Siddharth3710/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Siddharth3710/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Siddharth3710/LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
