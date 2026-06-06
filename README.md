@@ -149,6 +149,7 @@
 | [2126-destroying-asteroids](https://github.com/Siddharth3710/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Siddharth3710/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Siddharth3710/LeetCode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Siddharth3710/LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Siddharth3710/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Siddharth3710/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Prefix Sum
@@ -170,6 +171,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Siddharth3710/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [2540-minimum-common-value](https://github.com/Siddharth3710/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [3161-block-placement-queries](https://github.com/Siddharth3710/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Siddharth3710/LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Siddharth3710/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Siddharth3710/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Depth-First Search
@@ -197,4 +199,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Siddharth3710/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Siddharth3710/LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Siddharth3710/LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Siddharth3710/LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 <!---LeetCode Topics End-->
