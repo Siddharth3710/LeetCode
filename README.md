@@ -117,6 +117,7 @@
 | [0048-rotate-image](https://github.com/Siddharth3710/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/Siddharth3710/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Siddharth3710/LeetCode/tree/main/0788-rotated-digits/) | Medium |
+| [1622-fancy-sequence](https://github.com/Siddharth3710/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Siddharth3710/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Siddharth3710/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Siddharth3710/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -147,6 +148,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1622-fancy-sequence](https://github.com/Siddharth3710/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Siddharth3710/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -201,6 +203,7 @@
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1622-fancy-sequence](https://github.com/Siddharth3710/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [3161-block-placement-queries](https://github.com/Siddharth3710/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -226,4 +229,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Siddharth3710/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/Siddharth3710/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 <!---LeetCode Topics End-->
