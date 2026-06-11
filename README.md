@@ -120,6 +120,7 @@
 | [0788-rotated-digits](https://github.com/Siddharth3710/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [1622-fancy-sequence](https://github.com/Siddharth3710/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Siddharth3710/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Siddharth3710/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Siddharth3710/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Siddharth3710/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Siddharth3710/LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -189,6 +190,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/Siddharth3710/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Siddharth3710/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +230,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Siddharth3710/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Siddharth3710/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
